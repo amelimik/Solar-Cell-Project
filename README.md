@@ -1,7 +1,7 @@
 # Intro to HPC: Solar Cell Project Workthrough
 
 ## 📌 Project Overview
-This repository contains my completed workthrough of the project **"Solar Power for Affordable Housing through Computational Design of Low-Cost/High-Efficiency Solar Cells"**. 
+This repository contains my completed workthrough of the project **"Solar Power for Affordable Housing through Computational Design of Low-Cost/High-Efficiency Solar Cells"**. I completed this project at the Summer 2025 session of the Argonne National Laboratory Introduction to High-Performance Computing Bootcamp, where I also presented my findings. 
 
 The goal of this study is to analyze and predict the optical properties of dyes in the `DyeDB` database to assist in the design of low-cost, high-efficiency solar cells.
 
@@ -29,7 +29,7 @@ This project is licensed under the **Mozilla Public License 2.0 (MPL 2.0)**.
 For the original instructions and wiki documentation, please visit the [original repository](https://github.com/alvarovm/solarcelldata/wiki).
 
 ---
-*Disclaimer: This repository is a personal workthrough for portfolio purposes. If you are currently enrolled in this course, please use this as a reference only after attempting the exercises yourself.*
+*Disclaimer: This repository is a personal workthrough for portfolio purposes. If you are currently enrolled in this bootcamp, please use this as a reference only after attempting the exercises yourself.*
 
 Original ReadME:
 # Solar Power for Affordable Housing through Computational Design of Low-Cost/High-Efficiency Solar Cells
