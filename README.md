@@ -1,12 +1,3 @@
-# Solar Power for Affordable Housing through Computational Design of Low-Cost/High-Efficiency Solar Cells
-
-Please visit the wiki documentation for instructions, here [https://github.com/alvarovm/solarcelldata/wiki](https://github.com/alvarovm/solarcelldata/wiki)
-
-All rights reserved.
-Copyright Argonne National Laboratory UChicago LLC.
-Alvaro Vazquez Mayagoitia
-
-
 # Intro to HPC: Solar Cell Project Workthrough
 
 ## 📌 Project Overview
@@ -39,3 +30,14 @@ For the original instructions and wiki documentation, please visit the [original
 
 ---
 *Disclaimer: This repository is a personal workthrough for portfolio purposes. If you are currently enrolled in this course, please use this as a reference only after attempting the exercises yourself.*
+
+Original ReadME:
+# Solar Power for Affordable Housing through Computational Design of Low-Cost/High-Efficiency Solar Cells
+
+Please visit the wiki documentation for instructions, here [https://github.com/alvarovm/solarcelldata/wiki](https://github.com/alvarovm/solarcelldata/wiki)
+
+All rights reserved.
+Copyright Argonne National Laboratory UChicago LLC.
+Alvaro Vazquez Mayagoitia
+
+
